@@ -1,0 +1,41 @@
+html,body {
+  background-color: #F3F3F3;
+}
+* {
+  margin: 0;
+  padding: 0;
+}
+ul,li {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+
+.text-center {
+  text-align: center;
+}
+.text-right {
+  text-align: right;
+}
+
+.p-t-16 {
+  padding-top: 16px;
+}
+
+.p-b-16 {
+  padding-bottom: 16px;
+}
+
+.b-b-1 {
+  border-bottom: 1px solid #ededed;
+}
+
+.portrait {
+  display: inline-block;
+  height: 3rem;
+  width: 3rem;
+  -webkit-border-radius: 50%;
+  -moz-border-radius: 50%;
+  border-radius: 50%;
+  margin-right: 20px;
+}
